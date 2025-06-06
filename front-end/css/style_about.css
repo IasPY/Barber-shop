@@ -1,0 +1,57 @@
+body{
+
+    background-color: rgb(255, 222, 89);
+
+}
+
+nav ul a{
+
+    color: black !important;
+}
+
+nav a{
+
+    color: black !important;
+}
+
+
+.menu{
+    color: black !important;
+}
+
+#nav-barr{
+
+    background-color: rgb(255, 222, 89) !important;
+}
+
+.Alinhamento_de_texto {
+    width: 100%;
+    height: 100dvh;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 20px;
+    gap: 20px;
+}
+
+.textao {
+    font-weight: bold;
+    text-align: center;  /* Alterado para centralizar o texto */
+    background-color: #ffe281;
+    width: 50%;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.Alinhamento_de_texto img {
+    width: 50%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.footer{
+    border-color: black;
+    
+    
+}

@@ -1,0 +1,46 @@
+p{
+    color: black;
+
+}
+
+nav ul a{
+
+    color: black !important;
+}
+
+nav a{
+
+    color: black !important;
+}
+
+.menu{
+    color: black !important;
+}
+
+#nav-barr{
+
+    background-color: rgb(255, 222, 89) !important;
+}
+body{
+    background-color: rgb(255, 222, 89);
+
+}
+
+.Alinhamento_de_texto {
+    width: 100%;
+    height: 100dvh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    padding: 20px;
+   
+}
+
+.contatos {
+    font-weight: bold;
+    text-align: center;  /* Alterado para centralizar o texto */
+    background-color: #ffe281;
+    width: 50%;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);}
